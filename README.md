@@ -60,6 +60,11 @@
 
 ###  [&#xf16c;] Latest StackOverflow Activity of [@anwargul0x](https://github.com/anwargul0x)
 <!-- STACKOVERFLOW:START -->
+- [Comment by Anwar Gul on React Native (android) - Download file](https://stackoverflow.com/questions/62380902/react-native-android-download-file)
+- [Answer by Anwar Gul for Parent method from child class not being called React](https://stackoverflow.com/questions/62305451/parent-method-from-child-class-not-being-called-react/62305808#62305808)
+- [Comment by Anwar Gul on Basic Tip Calculator JavaScript](https://stackoverflow.com/questions/62233815/basic-tip-calculator-javascript)
+- [Answer by Anwar Gul for Basic Tip Calculator JavaScript](https://stackoverflow.com/questions/62233815/basic-tip-calculator-javascript/62233854#62233854)
+- [Answer by Anwar Gul for How do get nested objects from an API with react-native](https://stackoverflow.com/questions/62063417/how-do-get-nested-objects-from-an-api-with-react-native/62063980#62063980)
 <!-- STACKOVERFLOW:END -->
 
 ---
