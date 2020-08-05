@@ -5,7 +5,7 @@
 
 ## I'm a Software Engineer, Mobile and Web App Developer, and Tech Writer!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
-- 🔭 I’m currently working on a [ Personal Blog (in progress)](https://www.devsparkz.com/assets/logo.png)
+- 🔭 I’m currently working on a [ Personal Blog (in progress)](https://www.devsparkz.com)
 [<img src="https://www.devsparkz.com/assets/logo.png" alt="drawing" width="80"/>][website]
 <!-- - 🌱 I’m currently learning everything 🤣 -->
 - 👯 I’m looking to collaborate with other content creators
