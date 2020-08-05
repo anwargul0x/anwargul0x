@@ -50,7 +50,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Get Started with React Native + Google Sign In.](https://levelup.gitconnected.com/get-started-with-react-native-google-sign-in-4a03cef373c5?source=rss-ef408e4ef1e5------2)
+- [Javascript ES6 Declarations: The Complete Guide.](https://medium.com/swlh/javascript-es6-declarations-the-complete-guide-485d51039dd1?source=rss-ef408e4ef1e5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
