@@ -1,7 +1,7 @@
 ### Hi there, I'm Anwar Gul 
 
 <!-- aka [DevSparkz][website] 👋 -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/anwargul0x)
+[![Twitter Follow](https://img.shields.io/twitter/follow/anwargul0x?label=Follow)](https://twitter.com/anwargul0x)
 
 ## I'm a Software Engineer, Mobile and Web App Developer, and Tech Writer!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
