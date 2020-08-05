@@ -5,7 +5,7 @@
 ## I'm a Software Engineer, Mobile and Web App Developer, and Tech Writer!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
 - 🔭 I’m currently working on a [ Personal Blog (in progress)](https://www.devsparkz.com/assets/logo.png)
-[<img src="https://www.devsparkz.com/assets/logo.png" alt="drawing" width="180"/>][website]
+[<img src="https://www.devsparkz.com/assets/logo.png" alt="drawing" width="80"/>][website]
 <!-- - 🌱 I’m currently learning everything 🤣 -->
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -56,8 +56,9 @@
 
 ---
 
-<img align="left" alt="Anwar Gul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anwargul0x&
-&theme=algolia&show_icons=trueshow_icons=true&hide_border=false" />
+<!-- <img align="left" alt="Anwar Gul's Github Stats" src="https://github-readme-stats-anwar.vercel.app/api?username=anwargul0x&
+&theme=algolia&show_icons=trueshow_icons=true&hide_border=false" /> -->
+
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwargul0x&layout=compact&theme=dark)](https://github.com/anwargul0x/github-readme-stats)
