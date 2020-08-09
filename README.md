@@ -1,4 +1,7 @@
-### Hi there, I'm Anwar Gul 
+<img align="center" src="https://github.com/anwargul0x/anwargul0x/blob/master/GH-2.png?raw=true" alt="banner" />
+
+
+## Hi there, I'm Anwar Gul 
 
 <!-- aka [DevSparkz][website] 👋 -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/anwargul0x?label=Follow)](https://twitter.com/anwargul0x)
