@@ -2,11 +2,12 @@
 
 <!-- aka [DevSparkz][website] 👋 -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/anwargul0x?label=Follow)](https://twitter.com/anwargul0x)
+[![Connect With Me on LinkedIn](https://img.shields.io/badge/-Anwar%20Gul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanwargul0x%2F&fbclid=IwAR0fc3cK4ATFcILMwWAy1H6sjw0U-r9JJrdf9N3HKSsB_bpnIAtk-0-zFzg")](https://www.linkedin.com/in/anwargul0x/)
 
-## I'm a Software Engineer, Mobile and Web App Developer, and Tech Writer!
+## I'm a Software Engineer, Mobile and Web App Developer, and a Writer!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
 - 🔭 I’m currently working on a [ Personal Blog (in progress)](https://www.devsparkz.com)
-[<img src="https://www.devsparkz.com/assets/logo.png" alt="drawing" width="80"/>][website]
+[<img src="https://www.devsparkz.com/assets/logo.png" alt="drawing" align="center" width="120"/>][website]
 <!-- - 🌱 I’m currently learning everything 🤣 -->
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything related to Javascript.
@@ -36,10 +37,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -59,7 +59,7 @@
 ---
 
 
-###  [&#xf16c;] Latest StackOverflow Activity of [@anwargul0x](https://github.com/anwargul0x)
+###  [&#xf16c;] Latest StackOverflow Activity of [Anwar Gul](https://stackoverflow.com/users/story/9945969)
 <!-- STACKOVERFLOW:START -->
 - [Comment by Anwar Gul on React Native (android) - Download file](https://stackoverflow.com/questions/62380902/react-native-android-download-file)
 - [Answer by Anwar Gul for Parent method from child class not being called React](https://stackoverflow.com/questions/62305451/parent-method-from-child-class-not-being-called-react/62305808#62305808)
@@ -70,12 +70,20 @@
 
 ---
 
-<!-- <img align="left" alt="Anwar Gul's Github Stats" src="https://github-readme-stats-anwar.vercel.app/api?username=anwargul0x&
-&theme=algolia&show_icons=trueshow_icons=true&hide_border=false" /> -->
+<br/>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/anwargul0x/anwargul0x">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwargul0x&layout=compact&theme=dark" alt="Anwar's Top lang Stats" height="195px" />
+</a>
+<a href="https://github.com/anwargul0x/anwargul0x">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anwargul0x&show_icons=true&hide_border=true&theme=dark" alt="Anwar's GitHub Stats" />
+</a>
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwargul0x&layout=compact&theme=dark)](https://github.com/anwargul0x/github-readme-stats)
+
 
 [website]: https://www.devsparkz.com
 [twitter]: https://twitter.com/anwargul0x
