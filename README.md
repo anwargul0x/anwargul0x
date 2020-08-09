@@ -77,11 +77,12 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/anwargul0x/anwargul0x">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwargul0x&layout=compact&theme=dark" alt="Anwar's Top lang Stats" height="195px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anwargul0x&show_icons=true&hide_border=true&theme=dark" width="410px" height="215px" alt="Anwar's GitHub Stats" />
 </a>
 <a href="https://github.com/anwargul0x/anwargul0x">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anwargul0x&show_icons=true&hide_border=true&theme=dark" alt="Anwar's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwargul0x&layout=compact&theme=dark" alt="Anwar's Top lang Stats" height="195px" />
 </a>
+
 
 <br/>
 
