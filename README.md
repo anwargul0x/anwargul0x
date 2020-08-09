@@ -1,4 +1,4 @@
-<img  src="https://github.com/anwargul0x/anwargul0x/blob/master/anwargul0x-min.gif?raw=true" alt="banner" />
+<img  src="https://github.com/anwargul0x/anwargul0x/blob/master/GH.gif?raw=true" alt="banner"/>
 
 ## Hi there, I'm Anwar Gul 
 
