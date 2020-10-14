@@ -63,11 +63,11 @@
 
 ###  [&#xf16c;] Latest StackOverflow Activity of [Anwar Gul](https://stackoverflow.com/users/story/9945969)
 <!-- STACKOVERFLOW:START -->
-- [Answer by Anwar Gul for Mongoose join additional collection to two aggregated collections](https://stackoverflow.com/questions/64336953/mongoose-join-additional-collection-to-two-aggregated-collections/64337643#64337643)
 - [Answer by Anwar Gul for Parent method from child class not being called React](https://stackoverflow.com/questions/62305451/parent-method-from-child-class-not-being-called-react/62305808#62305808)
 - [Answer by Anwar Gul for Basic Tip Calculator JavaScript](https://stackoverflow.com/questions/62233815/basic-tip-calculator-javascript/62233854#62233854)
 - [Answer by Anwar Gul for How do get nested objects from an API with react-native](https://stackoverflow.com/questions/62063417/how-do-get-nested-objects-from-an-api-with-react-native/62063980#62063980)
 - [Answer by Anwar Gul for How do you call a function from another component when navigating in react native?](https://stackoverflow.com/questions/61929931/how-do-you-call-a-function-from-another-component-when-navigating-in-react-nativ/61930666#61930666)
+- [Answer by Anwar Gul for FrescoModule tried to override com.facebook.react.modules.fresco.FrescoModule](https://stackoverflow.com/questions/61928853/frescomodule-tried-to-override-com-facebook-react-modules-fresco-frescomodule/61930449#61930449)
 <!-- STACKOVERFLOW:END -->
 
 ---
