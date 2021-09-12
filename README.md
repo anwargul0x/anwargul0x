@@ -63,11 +63,11 @@
 
 ###  [&#xf16c;] Latest StackOverflow Activity of [Anwar Gul](https://stackoverflow.com/users/story/9945969)
 <!-- STACKOVERFLOW:START -->
+- [Answer by Anwar Gul for TypeError: null is not an object (evaluating 'TrackPlayer.RATING_HEART') && Module AppRegistry is not a registered callable module](https://stackoverflow.com/questions/69150457/typeerror-null-is-not-an-object-evaluating-trackplayer-rating-heart-modu/69150971#69150971)
 - [Answer by Anwar Gul for React native pass function through props](https://stackoverflow.com/questions/65511047/react-native-pass-function-through-props/65512046#65512046)
 - [Answer by Anwar Gul for Undefined is not an object (evaluating 'navigation.navigate') cannot be resolved](https://stackoverflow.com/questions/65511282/undefined-is-not-an-object-evaluating-navigation-navigate-cannot-be-resolved/65511933#65511933)
 - [Answer by Anwar Gul for Passing Variable in two JavaScript file](https://stackoverflow.com/questions/64550354/passing-variable-in-two-javascript-file/64550457#64550457)
 - [Answer by Anwar Gul for Parent method from child class not being called React](https://stackoverflow.com/questions/62305451/parent-method-from-child-class-not-being-called-react/62305808#62305808)
-- [Answer by Anwar Gul for Basic Tip Calculator JavaScript](https://stackoverflow.com/questions/62233815/basic-tip-calculator-javascript/62233854#62233854)
 <!-- STACKOVERFLOW:END -->
 
 ---
