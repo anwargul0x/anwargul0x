@@ -6,15 +6,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/anwargul0x?label=Follow)](https://twitter.com/anwargul0x)
 [![Connect With Me on LinkedIn](https://img.shields.io/badge/-Anwar%20Gul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanwargul0x%2F&fbclid=IwAR0fc3cK4ATFcILMwWAy1H6sjw0U-r9JJrdf9N3HKSsB_bpnIAtk-0-zFzg")](https://www.linkedin.com/in/anwargul0x/)
 
-## I'm a Software Engineer, Mobile and Web App Developer, and a Writer!
+## I'm a Senior Software Engineer, Mobile and Web App Developer, and a Writer!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
-- 🔭 I’m currently working on a [ Personal Blog (in progress)](https://www.devsparkz.com)
-[<img src="https://www.devsparkz.com/assets/logo.png" alt="drawing" align="center" width="120"/>][website]
 <!-- - 🌱 I’m currently learning everything 🤣 -->
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything related to Javascript.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am kind of obsessed with searching for the Best and Creative UIs [ sharp icons as well 🤣]. 
 
 ### Connect with me:
 
