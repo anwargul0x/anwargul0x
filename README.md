@@ -50,11 +50,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to your boost your React Native productivity](https://medium.com/@anwargul0x/how-to-your-boost-your-react-native-productivity-5a356a53e82b?source=rss-ef408e4ef1e5------2)
 - [Understanding the Three Phases of React Development](https://blog.stackademic.com/understanding-the-three-phases-of-react-development-545f01a4ccc8?source=rss-ef408e4ef1e5------2)
 - [How to Set Up Pre-Commit Hook Husky for Next.js 13 Project](https://blog.stackademic.com/how-to-set-up-pre-commit-hook-husky-for-next-js-13-project-86c131397735?source=rss-ef408e4ef1e5------2)
 - [How to Set Up ESLint in Next.js 13 TypeScript Project](https://medium.com/@anwargul0x/how-to-set-up-eslint-in-next-js-13-typescript-project-55c6471349ae?source=rss-ef408e4ef1e5------2)
 - [Get Started with React Native + Google Sign In.](https://levelup.gitconnected.com/get-started-with-react-native-google-sign-in-4a03cef373c5?source=rss-ef408e4ef1e5------2)
-- [Javascript ES6 Declarations: The Complete Guide.](https://medium.com/swlh/javascript-es6-declarations-the-complete-guide-485d51039dd1?source=rss-ef408e4ef1e5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
