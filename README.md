@@ -50,11 +50,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Test Custom Hooks with React Jest &amp; Testing Library](https://medium.com/@anwargul0x/how-to-test-custom-hooks-with-react-jest-testing-library-a31753c0e739?source=rss-ef408e4ef1e5------2)
+- [How to Test Custom Hooks with React Jest &amp; Testing Library](https://blog.stackademic.com/how-to-test-custom-hooks-with-react-jest-testing-library-a31753c0e739?source=rss-ef408e4ef1e5------2)
 - [5 Hooks Every React Developer Should Know](https://levelup.gitconnected.com/5-hooks-every-react-developer-should-know-bf7f24627fc3?source=rss-ef408e4ef1e5------2)
-- [How to Boost Your React Native Productivity](https://medium.com/@anwargul0x/how-to-your-boost-your-react-native-productivity-5a356a53e82b?source=rss-ef408e4ef1e5------2)
-- [Understanding the Three Phases of React Development](https://medium.com/@anwargul0x/understanding-the-three-phases-of-react-development-545f01a4ccc8?source=rss-ef408e4ef1e5------2)
-- [How to Set Up Pre-Commit Hook Husky for Next.js 13 Project](https://medium.com/@anwargul0x/how-to-set-up-pre-commit-hook-husky-for-next-js-13-project-86c131397735?source=rss-ef408e4ef1e5------2)
+- [How to Boost Your React Native Productivity](https://blog.stackademic.com/how-to-your-boost-your-react-native-productivity-5a356a53e82b?source=rss-ef408e4ef1e5------2)
+- [Understanding the Three Phases of React Development](https://blog.stackademic.com/understanding-the-three-phases-of-react-development-545f01a4ccc8?source=rss-ef408e4ef1e5------2)
+- [How to Set Up Pre-Commit Hook Husky for Next.js 13 Project](https://blog.stackademic.com/how-to-set-up-pre-commit-hook-husky-for-next-js-13-project-86c131397735?source=rss-ef408e4ef1e5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
